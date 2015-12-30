@@ -1,3 +1,3 @@
 # GIT TRAINING
 
-Git is awesome
+Git is awesome. VERY VERY awesome.
